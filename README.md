@@ -6,3 +6,7 @@
  PCB Image with scale
  
  ![Alt text](https://github.com/EM4Volts/5Plank/blob/main/res/images/frontPCBScale.png?raw=true "Title")
+
+Todo:
+ -Firmware
+ -actual production and a Real Life example
